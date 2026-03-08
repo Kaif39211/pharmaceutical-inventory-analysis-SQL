@@ -11,10 +11,10 @@ CREATE TABLE fact_pharma_inventory (
 
 select * from fact_pharma_inventory;
 
-copy fact_pharma_inventory(batch_id,product_name,mfg_date,exp_date,qty_on_hand,mrp_unit_price,unit_cost)
-from 'C:\Users\kaif\OneDrive\Desktop\Expiry_Risk_Compliance_Supply_Chain_35000_Rows  pharma.csv'
-delimiter','
-csv header;
+COPY fact_pharma_inventory(batch_id, product_name, mfg_date, exp_date, qty_on_hand, mrp_unit_price, unit_cost)
+FROM '/path/to/your/local/directory/Expiry_Risk_Compliance_Supply_Chain_35000_Rows_pharma.csv'
+DELIMITER ','
+CSV HEADER;
 
 select * from fact_pharma_inventory;
 
@@ -180,6 +180,7 @@ ORDER BY
 	TOTAL_CAPITAL_LOCKED_DEADSTOCK DESC
 LIMIT
 	10;
+
 
 
 
