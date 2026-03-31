@@ -213,3 +213,17 @@ Run the slow-mover detection query monthly. Any SKU flagged for 3 consecutive mo
 ---
 
 *Role: Data Analyst — Inventory & Operational Risk*
+
+
+
+**Role: Data Analyst — Sales & Logistics Operations** 
+
+ 
+ **Others Project -**
+ 
+ 1) https://github.com/Kaif39211/pharmaceutical-inventory-analysis-SQL 
+                                              2) https://github.com/Kaif39211/KM_Logistics_2022_Analysis.xlsx
+
+
+                      
+## **Contact: [LinkedIn](http://www.linkedin.com/in/kaif-mahaldar-18300b333) | [Email](mailto:kaifmahaldar5@gmail.com)**
