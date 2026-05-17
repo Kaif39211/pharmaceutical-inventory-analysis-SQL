@@ -221,8 +221,8 @@ Run the slow-mover detection query monthly. Any SKU flagged for 3 consecutive mo
  
  **Others Project -**
  
- 1) https://github.com/Kaif39211/pharmaceutical-inventory-analysis-SQL 
-                                              2) https://github.com/Kaif39211/KM_Logistics_2022_Analysis.xlsx
+ 1) https://github.com/Kaif39211/zepto-inventory-optimization
+ 2) https://github.com/Kaif39211/KM_Logistics_2022_Analysis.xlsx
 
 
                       
