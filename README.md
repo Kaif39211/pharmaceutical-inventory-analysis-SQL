@@ -124,7 +124,6 @@ Segmented inspection failure rates by temperature band (2–8°C vs. 16–25°C)
 **12. Discount Effectiveness Simulation**
 Modeled the correlation between discount rate and actual turnover ratio. The question being answered: are current discount strategies actually moving high-risk stock, or are they failing silently?
 
-<img width="368" height="24030" alt="image" src="https://github.com/user-attachments/assets/57b4104d-d276-4b6f-ae5a-3735d52a8232" />
 
 
 ---
