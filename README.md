@@ -228,4 +228,3 @@ Run the slow-mover detection query monthly. Any SKU flagged for 3 consecutive mo
 ## **Contact: [LinkedIn](http://www.linkedin.com/in/kaif-mahaldar-18300b333) | [Email](mailto:kaifmahaldar5@gmail.com)**
 
 
-I NEED THAT TYPE OF README BOX OR MUCH MORE BETTER 
